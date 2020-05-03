@@ -1,7 +1,13 @@
 #drbd-heartbeat
 Nodo01
 IP: 192.168.100.128
+IP: 10.10.20.1
 SO: Debian 9
+
+Nodo02
+IP: 192.168.100.129/24
+IP: 10.10.20.2
+
 Copiar o arquivo /etc/drbd.conf
 - Preparando o disco rígido
 - Para o comando abaixo funcionar o recurso deve está declarado corretamente
